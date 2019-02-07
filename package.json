@@ -1,0 +1,17 @@
+{
+  "name": "get-number-from-string",
+  "version": "1.0.1",
+  "description": "get number from string, remove another character from string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "number",
+    "get number",
+    "remove"
+  ],
+  "author": "Majid Shahmohammadi",
+  "license": "ISC"
+}
